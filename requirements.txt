@@ -1,5 +1,4 @@
 h3==3.6.4
-urllib==1.25.9
 shapely==1.6.4
 geojson==2.5.0
 tempfile==1.0
