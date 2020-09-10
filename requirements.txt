@@ -1,7 +1,6 @@
 h3==3.6.4
 shapely==1.7.1
 geojson==2.5.0
-tempfile==1.0
 pandas==1.0.5
 geopandas==0.6.1
 branca==0.4.1
